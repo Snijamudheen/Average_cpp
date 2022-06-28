@@ -1,1 +1,1 @@
-# Average_cpp
+A C++ program that calculates the average rainfall for three months. The program asks the user to enter the name of each month, such as June or July, and the amount of rain (in inches) that fell each month.
